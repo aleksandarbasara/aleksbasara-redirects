@@ -1,1 +1,161 @@
+[[redirects]]
+  from = "/"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
 
+[[redirects]]
+  from = "/jamstack/*"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/what-exactly-is-a-feature-store"
+  to = "https://www.frgmnt.studio/posts/what-exactly-is-a-feature-store"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/what-exactly-is-a-feature-store/amp"
+  to = "https://www.frgmnt.studio/posts/what-exactly-is-a-feature-store"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/2018/01/21/how-much-ui-do-we-really-need"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/services/faster-web-experiences-with-the-jamstack"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/how-to-use-adobe-fonts-within-carrd"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/8-best-static-site-generators-to-watch-in-2021"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/nfts-explained"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/how-to-advance-with-your-remote-career"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/welcome-to-metaverse-universe-beyond-the-imagined"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/what-is-remix-run"
+  to = "https://www.frgmnt.studio/posts/remix-run"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/the-near-perfect-website-stack-for-2023/amp"
+  to = "https://www.frgmnt.studio/posts/headless-wordpress-the-perfect-stack-for-2023"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/what-is-a-user-experience-audit"
+  to = "https://www.frgmnt.studio/posts/the-role-of-ux-audits-in-product-design"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/author/aleksandar/page/3"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/services/scaling-ecommerce-with-shopify"
+  to = "https://www.www.frgmnt.studio/services/e-commerce-platforms"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/headless-wordpress"
+  to = "https://www.frgmnt.studio/posts/headless-wordpress-the-perfect-stack-for-2023"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/marketing-automation-explained"
+  to = "https://www.frgmnt.studio/posts/marketing-automation-explained"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/page/3"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/welcoming-the-headless-commerce"
+  to = "https://www.frgmnt.studio/services/e-commerce-platforms"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/tag/user-experience"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/membership"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/authors"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/what-is-astro-build-and-why-is-it-the-future-of-web-development"
+  to = "https://www.frgmnt.studio/technologies/astro"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/search"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/imprint"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/tag/carrdtemplates"
+  to = "https://www.frgmnt.studio"
+  status = 301
+  force = false
